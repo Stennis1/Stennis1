@@ -1,11 +1,6 @@
 <!-- Flashy Developer Profile README for Stennis Smith -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A6FF&center=true&vCenter=true&lines=Hi+there,+I'm+Stennis;Software+Engineer" />
-</p>
-
-![Animated Header](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=007BFF&center=true&vCenter=true&width=800&lines=Fullstack+Developer+|+Cloud+Architect+%7C+;AWS+%7C+React.js+%7C+Node.js+%7C+Flutter;Building+Scalable+Systems+%26+Modern+Apps)
-
+## Hi there, I'm Stennis Smith 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stennis-smith/">
